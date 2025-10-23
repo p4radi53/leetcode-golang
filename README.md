@@ -1,0 +1,1 @@
+I've failed too many coding interviews on these stupid Leetcode questions. I'm going to solve them until I feel comfortable doing Medium questions in about 20 minute time. This is also a Golang learning experience.
