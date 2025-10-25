@@ -1,4 +1,4 @@
-package string
+package easy
 
 func isHappy(n int) bool {
 	var current int

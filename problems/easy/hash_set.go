@@ -1,4 +1,4 @@
-package string
+package easy
 
 type MyHashSet struct {
 	values map[any]struct{}

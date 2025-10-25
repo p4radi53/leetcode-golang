@@ -1,4 +1,4 @@
-package string
+package easy
 
 func twoSum(nums []int, target int) []int {
 	alreadyEncountered := make(map[int]int)

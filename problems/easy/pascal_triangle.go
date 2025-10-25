@@ -1,4 +1,4 @@
-package string
+package easy
 
 func generate(numRows int) [][]int {
 	result := make([][]int, numRows)

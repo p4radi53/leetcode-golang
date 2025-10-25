@@ -1,5 +1,4 @@
-
-package string
+package easy
 
 import (
 	"reflect"
